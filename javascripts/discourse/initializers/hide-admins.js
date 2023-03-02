@@ -8,7 +8,7 @@ export default {
   initialize() {
     withPluginApi("0.8.30", (api) => {
       api.onPageChange((url) => {
-        if (url != "/about") {
+        if (url !== "/about") {
           return;
         }
         for (const admin of hidden_admins) {
