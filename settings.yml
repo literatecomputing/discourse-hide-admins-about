@@ -1,4 +1,4 @@
-example_setting:
-  default: true
+hidden_admins:
+  default: pfaffman
   description:
-    en: A description of a setting.
+    en: Pipe-delimited Array of users to hide from /about page
