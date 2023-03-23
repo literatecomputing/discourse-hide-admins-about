@@ -1,5 +1,5 @@
 {
-  "name": "Hide Admins from About page",
+  "name": "Hide Staff from About page",
   "component": true,
   "authors": "Jay Pfaffman",
   "license_url": "https://github.com/literatecomputing/discourse-hide-admins-about/blob/main/LICENSE",
